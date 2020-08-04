@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>172.jpg</filename>
+	<path>C:\tfsample\train\172.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>v_s</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>165</ymin>
+			<xmax>88</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
